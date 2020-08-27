@@ -1,6 +1,6 @@
 // add solution here
 let i = 0;
-  
+
   function incrementVariable() {
     i = i + 1;
     return i;
