@@ -17,7 +17,7 @@
 
   function johnLennonFacts(array) {
     while (i < array.legnth) {
-      console.log(array[i] + "!!!";
+      console.log(array[i] + "!!!");
       var array3 = [];
     }
     return array3;
