@@ -14,3 +14,11 @@ function theBeatlesPlay(array, array1) {
     }
     return array2
   }
+
+  function johnLennonFacts(array) {
+    while (i < array.legnth) {
+      console.log(array[i] + "!!!";
+      var array3 = [];
+    }
+    return array3;
+  }
